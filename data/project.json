@@ -24,11 +24,241 @@
     "auto_populate_home_page": true,
     "additional_users": [],
     "tags": {
-      "tagGroups": [],
-      "tags": []
+      "tagGroups": [
+        {
+          "category": "Acciones",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "Audio",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "Dispositivos retóricos",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "Personajes",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "Segmentos",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "Videografía",
+          "color": "#B3B3E6"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Beber",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Caminar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Escribir",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Fumar—Apagar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Fumar—Inhalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Hacer un círculo",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Gesto—Señalar",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Lápiz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Manipular—Papel",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Uña",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Mejilla",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Nariz",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Boca",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tocar—Mentón",
+          "category": "Acciones"
+        },
+        {
+          "tag": "Tempo—Cuidadoso",
+          "category": "Audio"
+        },
+        {
+          "tag": "Tempo—Conversacional",
+          "category": "Audio"
+        },
+        {
+          "tag": "Tempo—Rápido",
+          "category": "Audio"
+        },
+        {
+          "tag": "Tempo—Muy rápido",
+          "category": "Audio"
+        },
+        {
+          "tag": "Pausa—Corta",
+          "category": "Audio"
+        },
+        {
+          "tag": "Pausa—Larga",
+          "category": "Audio"
+        },
+        {
+          "tag": "Lenguaje emotivo",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Preguntas",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Repetición",
+          "category": "Dispositivos retóricos"
+        },
+        {
+          "tag": "Agosti, Orlando Ramón",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Anaya, Jorge",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Cámara Nacional de Apelaciones",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Galtieri, Leopoldo Fortunato",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Graffigna, Omar Domingo Rubens",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Lambruschini, Armando",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Lami Dozo, Basilio Arturo",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Massera, Emilio Eduardo",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Strassera, Julio César",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Videla, Jorge Rafael, 1925-2013",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Viola, Roberto Eduardo",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Acusados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Abogados",
+          "category": "Personajes"
+        },
+        {
+          "tag": "Título",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Características del aparato organizado de poder",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Conclusión sobre la pena",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Declaración del problema jurídico",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Delitos cometidos",
+          "category": "Segmentos"
+        },
+        {
+          "tag": "Plano general—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Plano general—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Primer plano—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Primer plano—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Primer plano—Frontal",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Toma cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Zoom in—Cenital",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Zoom out—De perfil",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Zoom out—Desde atrás",
+          "category": "Videografía"
+        },
+        {
+          "tag": "Zoom out—Frontal",
+          "category": "Videografía"
+        }
+      ]
     },
     "created_at": "2026-03-19T21:28:51.795Z",
-    "updated_at": "2026-03-19T21:35:26.044Z",
+    "updated_at": "2026-03-19T21:36:46.576Z",
     "generate_pages_site": true
   },
   "annotations": {},
