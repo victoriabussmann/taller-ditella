@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "victoriabussmann",
+    "is_private": false,
+    "title": "Taller Di Tella",
+    "description": "Taller que se dio en Di Tella",
+    "language": "es",
+    "slug": "taller-ditella",
+    "creator": "victoriabussmann",
+    "authors": "Victoria Bussmann",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-03-19T21:28:51.795Z",
+    "updated_at": "2026-03-19T21:28:51.795Z"
   }
 }
