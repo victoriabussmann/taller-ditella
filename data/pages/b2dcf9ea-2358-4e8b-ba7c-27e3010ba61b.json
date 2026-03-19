@@ -26,6 +26,57 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Texto"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -35,7 +86,7 @@
   "created_by": "victoriabussmann",
   "title": "Memoria Abierta",
   "slug": "memoria-abierta",
-  "updated_at": "2026-03-19T21:40:40.890Z",
+  "updated_at": "2026-03-19T21:41:27.285Z",
   "updated_by": "victoriabussmann",
   "autogenerate": {
     "enabled": false,
