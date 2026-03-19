@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "victoriabussmann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/268750069?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "victoriabussmann",
     "is_private": false,
@@ -22,6 +28,27 @@
       "tags": []
     },
     "created_at": "2026-03-19T21:28:51.795Z",
-    "updated_at": "2026-03-19T21:28:51.795Z"
-  }
+    "updated_at": "2026-03-19T21:28:51.795Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "593edded-78a1-48f8-b4d6-482c9d7c0063": {
+      "content": [],
+      "created_at": "2026-03-19T21:28:51.833Z",
+      "created_by": "victoriabussmann",
+      "title": "Taller Di Tella",
+      "updated_at": "2026-03-19T21:28:51.833Z",
+      "updated_by": "victoriabussmann",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "593edded-78a1-48f8-b4d6-482c9d7c0063"
+  ]
 }
